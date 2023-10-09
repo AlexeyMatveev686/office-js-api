@@ -10,5 +10,5 @@ jobs:
     - uses: nosborn/github-action-markdown-cli@v3.3.0
       name: Markdownlint
       with:
-        files: "*/*/*.md */*/*/*.md Enumerations/*.md"
+        files: "Enumerations/*.md */*/*.md */*/*/*.md"
         config_file: "spellcheck/.markdownlint.json"

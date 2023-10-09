@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: tbroadley/spellchecker-cli-action@v1
         with:
-          files: '*/*/*.md */*/*/*.md Enumerations/*.md'
+          files: 'Enumerations/*.md */*/*.md */*/*/*.md'
           quiet: true
           dictionaries: spellcheck/wordlist.txt
           noSuggestions: true
