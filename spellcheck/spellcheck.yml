@@ -1,7 +1,7 @@
 matrix:
 - name: Markdown
   sources:
-  - 'Enumerations/*.md Cell/**/*.md Cell/**/**/*.md'
+  - 'Cell/**/*.md'
   default_encoding: utf-8
   aspell:
     lang: en
