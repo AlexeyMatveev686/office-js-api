@@ -23,3 +23,10 @@ CRM
 textarea
 V8_USE_INSPECTOR
 F12
+eventName
+Description1
+className
+description2
+MethodName
+PropName
+return1
