@@ -1,0 +1,20 @@
+matrix:
+- name: Markdown
+  sources:
+  - 'Enumerations/*.md */*/*.md */*/*/*.md'
+  default_encoding: utf-8
+  aspell:
+    lang: en
+  dictionary:
+    wordlists:
+    - wordlist.txt # <-- put path to custom dictionary file here
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+      markdown_extensions:
+      - pymdownx.superfences
+  - pyspelling.filters.html:
+      comments: false
+      ignores:
+      - code
+      - pre
