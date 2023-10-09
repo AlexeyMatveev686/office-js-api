@@ -1,0 +1,14 @@
+name: spellcheck_2
+on: push
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    name: Spellcheck
+    steps:
+      - uses: actions/checkout@v4
+      - uses: tbroadley/spellchecker-cli-action@v1
+        with:
+          files: '*/*/*.md */*/*/*.md Enumerations/*.md'
+          quiet: true
+          dictionaries: spellcheck/wordlist.txt
+          noSuggestions: true
