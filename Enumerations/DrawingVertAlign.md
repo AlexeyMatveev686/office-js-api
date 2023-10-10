@@ -1,6 +1,6 @@
 # DrawingVertAlign
 
-The alingment type which will be used for the object vertical alignment.
+The alignment type which will be used for the object vertical alignment.
 
 ## Type
 
@@ -14,7 +14,7 @@ String
 
 ## Example
 
-This example sets vertical aligment for a drawing object
+This example sets vertical alignment for a drawing object
 
 ```javascript
 oDrawing.SetVerAlign("page", "top");

@@ -9,13 +9,13 @@ String &#124; null
 ## Properties
 
 - "row" - freeze top row &#124; if current freeze type is row.
-- "column" - freeze firs column &#124; if current freeze type is column.
+- "column" - freeze first column &#124; if current freeze type is column.
 - "cell" - freeze panes by current cell &#124; if current freeze type is cell.
 - null - unfreeze panes &#124; if there is no frozen pane.
 
 ## Example
 
-This example freezes first column and get pastes a freezed range address into the table.
+This example freezes first column and get pastes a frozen range address into the table.
 
 ```javascript
 builder.CreateFile("xlsx");

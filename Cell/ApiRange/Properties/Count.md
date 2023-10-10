@@ -1,6 +1,6 @@
 # Count
 
-Returns the cells count in the currrent range. **Read-only**
+Returns the cells count in the current range. **Read-only**
 
 ## Syntax
 

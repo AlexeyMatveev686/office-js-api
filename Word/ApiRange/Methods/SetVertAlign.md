@@ -20,7 +20,7 @@ expression.SetVertAlign(sType);
 
 ## Example
 
-This example sets verlical aligment "superscript" for [ApiRange](../ApiRange.md).
+This example sets vertical alignment "superscript" for [ApiRange](../ApiRange.md).
 
 ```javascript
 builder.CreateFile("docx");

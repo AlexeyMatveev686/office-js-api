@@ -10,7 +10,7 @@ expression.
 
 ## Returns
 
-boolean
+Boolean
 
 ## Example
 

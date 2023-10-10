@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example shows how ot get the paragraph properties of the current style.
+This example shows how to get the paragraph properties of the current style.
 
 ```javascript
 builder.CreateFile("docx");

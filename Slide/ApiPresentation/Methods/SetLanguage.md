@@ -20,7 +20,7 @@ Boolean
 
 ## Example
 
-This example sets pecifies the languages which will be used to check spelling and grammar.
+This example sets specifies the languages which will be used to check spelling and grammar.
 
 ```javascript
 builder.CreateFile("pptx");

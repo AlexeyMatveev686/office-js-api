@@ -16,7 +16,7 @@ expression.SetVerticalTextAlign(VerticalAlign);
 
 ## Returns
 
-Boolean (returns false if shape or aligment doesn't exist)
+Boolean (returns false if shape or alignment doesn't exist)
 
 ## Example
 

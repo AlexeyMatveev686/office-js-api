@@ -16,7 +16,7 @@ expression.SetWrappingStyle(isFlow);
 
 ## Returns
 
-Boolean (returns false if param is invalid)
+Boolean (returns false if parameter is invalid)
 
 ## Example
 

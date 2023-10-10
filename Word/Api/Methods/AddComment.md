@@ -1,6 +1,6 @@
 # AddComment
 
-Adds a comment to the specifed document element or array of Runs.
+Adds a comment to the specified document element or array of Runs.
 
 ## Syntax
 

@@ -16,7 +16,7 @@ expression.ApplyTheme(oApiTheme);
 
 ## Returns
 
-Boolean (returns false if param isn't theme or presentation doesn't exist)
+Boolean (returns false if parameter isn't theme or presentation doesn't exist)
 
 ## Example
 

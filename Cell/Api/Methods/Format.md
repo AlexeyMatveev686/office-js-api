@@ -13,7 +13,7 @@ expression.Format(expression, format?);
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | expression | Required | String | Any valid expression. |
-| format | Optional | String | A valid named or user-defined format expression. Dedault value is "null". |
+| format | Optional | String | A valid named or user-defined format expression. Default value is "null". |
 
 ## Returns
 

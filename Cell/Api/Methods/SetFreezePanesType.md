@@ -20,7 +20,7 @@ This method doesn't return any data.
 
 ## Example
 
-This example freezes first column and get pastes a freezed range address into the table.
+This example freezes first column and get pastes a frozen range address into the table.
 
 ```javascript
 builder.CreateFile("xlsx");

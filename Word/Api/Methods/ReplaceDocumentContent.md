@@ -20,7 +20,7 @@ This method doesn't return any data.
 
 ## Example
 
-This examle shows how to reaplace document content with mail merge data.
+This example shows how to replace document content with mail merge data.
 
 ```javascript
 builder.CreateFile("docx");

@@ -17,7 +17,7 @@ expression.AddBreak(breakType, position);
 
 ## Returns
 
-Boolean (returns false if drawing object haven't parent run or params are invalid)
+Boolean (returns false if drawing object haven't parent run or parameters are invalid)
 
 ## Example
 

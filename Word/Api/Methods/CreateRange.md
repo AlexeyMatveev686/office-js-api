@@ -22,7 +22,7 @@ expression.CreateRange();
 
 ## Example
 
-This example ctreates a range and sets bold for the first 9 characters.
+This example creates a range and sets bold for the first 9 characters.
 
 ```javascript
 builder.CreateFile("docx");

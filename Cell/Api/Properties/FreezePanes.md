@@ -20,7 +20,7 @@ expression.FreezePanes; &#124; expression.FreezePanes = FreezePaneType;
 
 ## Example
 
-This example freezes first column and get pastes a freezed type into the table.
+This example freezes first column and get pastes a frozen type into the table.
 
 ```javascript
 builder.CreateFile("xlsx");

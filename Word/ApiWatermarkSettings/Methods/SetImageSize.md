@@ -4,7 +4,7 @@ Sets the size of the image.
 
 ## Syntax
 
-expressionSetImageSize(nWidth, nHeight);
+expression.SetImageSize(nWidth, nHeight);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 

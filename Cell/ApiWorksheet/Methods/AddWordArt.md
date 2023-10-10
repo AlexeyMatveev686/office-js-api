@@ -19,7 +19,7 @@ expression.AddWordArt(oTextPr?, sText?, sTransform?, oFill?, oStroke?, nRotAngle
 | oStroke | Optional | [ApiStroke](../../ApiStroke/ApiStroke.md) | The stroke used to create the Text Art object shadow. |
 | nRotAngle | Optional | Number | Rotation angle. Default value is "Api.CreateStroke(0, Api.CreateNoFill())". |
 | nWidth | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art width measured in English measure units. Default value is "1828800". |
-| nHeight | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art heigth measured in English measure units. Default value is "1828800". |
+| nHeight | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art height measured in English measure units. Default value is "1828800". |
 | nFromCol | Optional | Number | The column number where the beginning of the Text Art object will be placed. Default value is "0". |
 | nFromRow | Optional | Number | The row number where the beginning of the Text Art object will be placed. Default value is "0". |
 | nColOffset | Optional | [EMU](../../../Enumerations/Emu.md) | The offset from the nFromCol column to the left part of the Text Art object measured in English measure units. Default value is "0". |

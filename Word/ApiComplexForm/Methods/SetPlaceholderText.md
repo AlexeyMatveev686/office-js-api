@@ -24,5 +24,5 @@ return
 This example
 
 ```javascript
-// todo_exampeles
+// todo_exampleles
 ```

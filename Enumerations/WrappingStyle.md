@@ -18,7 +18,7 @@ String
 
 ## Example
 
-This example sets wrapping style "squeare" for drawing object.
+This example sets wrapping style "square" for drawing object.
 
 ```javascript
 oDrawing.SetWrappingStyle("square");

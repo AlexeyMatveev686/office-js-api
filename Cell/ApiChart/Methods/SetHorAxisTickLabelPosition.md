@@ -20,7 +20,7 @@ This method doesn't return any data.
 
 ## Example
 
-This eets the possible values for the position of the chart tick labels in relation to the main horizontal label or the chart data values.
+This example sets the possible values for the position of the chart tick labels in relation to the main horizontal label or the chart data values.
 
 ```javascript
 builder.CreateFile("xlsx");

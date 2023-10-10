@@ -20,7 +20,7 @@ expression.CreateSchemeColor(sSchemeColorId);
 
 ## Example
 
-This example reates a complex color scheme selecting from one of the available schemes.
+This example creates a complex color scheme selecting from one of the available schemes.
 
 ```javascript
 builder.CreateFile("xlsx");

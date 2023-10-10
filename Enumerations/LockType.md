@@ -14,7 +14,7 @@ String
 
 ## Example
 
-This example sets lock type "sdtContentLocked" for innline content control.
+This example sets lock type "sdtContentLocked" for inline content control.
 
 ```javascript
 oInlineLvlSdt.SetLock("sdtContentLocked");

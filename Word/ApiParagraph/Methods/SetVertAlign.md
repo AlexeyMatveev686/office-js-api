@@ -20,7 +20,7 @@ expression.SetVertAlign(sType);
 
 ## Example
 
-This example creates two paragraphs. One with vertical aligment "subscript" and another one with vertical aligment "superscript".
+This example creates two paragraphs. One with vertical alignment "subscript" and another one with vertical alignment "superscript".
 
 ```javascript
 builder.CreateFile("docx");

@@ -16,7 +16,7 @@ expression.ToJSON(bWriteDefaultTextPr, bWriteDefaultParaPr, bWriteTheme, bWriteS
 | bWriteDefaultParaPr | Required | Boolean | Specifies if the default paragraph properties will be written to the JSON object or not. |
 | bWriteTheme | Required | Boolean | Specifies if the document theme will be written to the JSON object or not. |
 | bWriteSectionPr | Required | Boolean | Specifies if the document section properties will be written to the JSON object or not. |
-| bWriteNumberings | Required | Boolean | Specifies if the document numberings will be written to the JSON object or not. |
+| bWriteNumberings | Required | Boolean | Specifies if the document numbering will be written to the JSON object or not. |
 | bWriteStyles | Required | Boolean | Specifies if the document styles will be written to the JSON object or not. |
 
 ## Returns

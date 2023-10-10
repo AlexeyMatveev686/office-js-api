@@ -22,7 +22,7 @@ expression.CreateImage(sImageSrc, nWidth, nHeight);
 
 ## Example
 
-This example creastes an image and pastes it into the document.
+This example creates an image and pastes it into the document.
 
 ```javascript
 builder.CreateFile("docx");

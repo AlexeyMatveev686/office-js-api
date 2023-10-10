@@ -14,7 +14,7 @@ This method doesn't have any parameters.
 
 ## Returns
 
-[ApiLayout](../../ApiLayout/ApiLayout.md) &#124; null (return null if parent ins't a slide layout)
+[ApiLayout](../../ApiLayout/ApiLayout.md) &#124; null (return null if parent isn't a slide layout)
 
 ## Example
 

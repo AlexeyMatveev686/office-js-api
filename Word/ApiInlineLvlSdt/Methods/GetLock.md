@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example shows hpw to get the lock type of the container.
+This example shows how to get the lock type of the container.
 
 ```javascript
 builder.CreateFile("docx");

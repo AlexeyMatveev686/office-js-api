@@ -1,6 +1,6 @@
 # FreezePanes
 
-Returns a freezePanes for a current worsheet.  **Read-only**
+Returns a freezePanes for a current worksheet.  **Read-only**
 
 ## Syntax
 
@@ -15,7 +15,7 @@ expression.FreezePanes;
 
 ## Example
 
-This example freezes first column and get pastes a freezed range address into the table.
+This example freezes first column and get pastes a frozen range address into the table.
 
 ```javascript
 builder.CreateFile("xlsx");

@@ -16,7 +16,7 @@ String
 
 ## Example
 
-This example specifys that the single underlining is applied to the font.
+This example specify that the single underlining is applied to the font.
 
 ```javascript
 oFont.SetUnderline("xlUnderlineStyleSingle");

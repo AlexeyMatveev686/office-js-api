@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example shows how to ge t the paragraph properties which are applied to any numbered paragraph that references the given numbering definition and numbering level.
+This example shows how to get the paragraph properties which are applied to any numbered paragraph that references the given numbering definition and numbering level.
 
 ```javascript
 builder.CreateFile("docx");

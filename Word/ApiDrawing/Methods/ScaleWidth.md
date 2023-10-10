@@ -16,7 +16,7 @@ expression.ScaleWidth(coefficient);
 
 ## Returns
 
-Boolean (return false if param is invalid)
+Boolean (return false if parameter is invalid)
 
 ## Example
 

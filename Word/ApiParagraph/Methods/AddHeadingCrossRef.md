@@ -14,7 +14,7 @@ expression.AddHeadingCrossRef(sRefType, oParaTo, bLink?, bAboveBelow?);
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | sRefType | Required | [headingRefTo](../../../Enumerations/headingRefTo.md) | The text or numeric value of an heading reference you want to insert. |
-| oParaTo | Required | [ApiParagraph](../ApiParagraph.md) | TThe heading paragraph to be referred to (must be in the document). |
+| oParaTo | Required | [ApiParagraph](../ApiParagraph.md) | The heading paragraph to be referred to (must be in the document). |
 | bLink | Optional | Boolean | Specifies if the reference will be inserted as a hyperlink. Default value is "true". |
 | bAboveBelow | Optional | Specifies if the above/below words indicating the position of the reference should be included (don't used with the "text" and "aboveBelow" sRefType). Default value is "false". |
 

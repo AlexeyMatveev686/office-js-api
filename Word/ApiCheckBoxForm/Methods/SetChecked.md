@@ -20,7 +20,7 @@ Boolean
 
 ## Example
 
-This example hecks the checkbox.
+This example checks the checkbox.
 
 ```javascript
 builder.CreateFile("docx");

@@ -14,7 +14,7 @@ String &#124; null (returns null if comment is added for document)
 
 ## Example
 
-This example shoows how to get the quote text of the comment.
+This example shows how to get the quote text of the comment.
 
 ```javascript
 builder.CreateFile("xlsx");

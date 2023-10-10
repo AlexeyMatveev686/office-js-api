@@ -17,7 +17,7 @@ String
 
 ## Example
 
-This example sets horizontal aligment for a drawing object
+This example sets horizontal alignment for a drawing object
 
 ```javascript
 oDrawing.SetHorAlign("page", "center");

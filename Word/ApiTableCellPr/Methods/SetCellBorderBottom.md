@@ -14,7 +14,7 @@ expression.SetCellBorderBottom(sType, nSize, nSpace, r, g, b);
 | ------------- | ------------- | ------------- | ------------- |
 | sType | Required | [BorderType](../../../Enumerations/BorderType.md) | The border style. |
 | nSize | Required | [pt_8](../../../Enumerations/pt_8.md) | The width of the current cell bottom border measured in eighths of a point. |
-| nSpace | Required | [pt](../../../Enumerations/pt.md) | TThe spacing offset in the bottom part of the table cell measured in points used to place this border. |
+| nSpace | Required | [pt](../../../Enumerations/pt.md) | The spacing offset in the bottom part of the table cell measured in points used to place this border. |
 | r | Required | [byte](../../../Enumerations/byte.md) | Red color component value. |
 | g | Required | [byte](../../../Enumerations/byte.md) | Green color component value. |
 | b | Required | [byte](../../../Enumerations/byte.md) | Blue color component value. |

@@ -18,7 +18,7 @@ Boolean
 
 ## Example
 
-This example delets the comment from the document.
+This example deletes the comment from the document.
 
 ```javascript
 builder.CreateFile("docx");

@@ -20,7 +20,7 @@ Boolean
 
 ## Example
 
-This example shows how to apply a styhe for chart.
+This example shows how to apply a style for chart.
 
 ```javascript
 builder.CreateFile("docx");

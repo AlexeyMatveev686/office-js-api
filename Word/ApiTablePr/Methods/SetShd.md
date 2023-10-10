@@ -16,7 +16,7 @@ expression.SetShd(sType, r, g, b, isAuto?);
 | r | Required | [byte](../../../Enumerations/byte.md) | Red color component value. |
 | g | Required | [byte](../../../Enumerations/byte.md) | Green color component value. |
 | b | Required | [byte](../../../Enumerations/byte.md) | Blue color component value. |
-| isAuto | Optional | boolean | The true value disables the SetShd method use. Default value is "false". |
+| isAuto | Optional | Boolean | The true value disables the SetShd method use. Default value is "false". |
 
 
 ## Returns

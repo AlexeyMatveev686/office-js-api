@@ -12,7 +12,7 @@ expression.ToJSON(bWriteNumberings);
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
-| bWriteNumberings | Required | Boolean | Specifies if the used numberings will be written to the JSON object or not. |
+| bWriteNumberings | Required | Boolean | Specifies if the used numbering will be written to the JSON object or not. |
 
 ## Returns
 

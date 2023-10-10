@@ -8,7 +8,7 @@ String
 
 ## Properties
 
-- autofit" 
+- "autofit" 
 - "fixed"
 
 ## Example

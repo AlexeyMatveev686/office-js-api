@@ -1,6 +1,6 @@
 # SetHorAxisTickLabelPosition
 
-Spicifies tick label position for the horizontal axis.
+Specifies tick label position for the horizontal axis.
 
 ## Syntax
 
@@ -20,7 +20,7 @@ This method doesn't return any data.
 
 ## Example
 
-This example spicifies tick label position for the horizontal axis.
+This example specifies tick label position for the horizontal axis.
 
 ```javascript
 builder.CreateFile("pptx");

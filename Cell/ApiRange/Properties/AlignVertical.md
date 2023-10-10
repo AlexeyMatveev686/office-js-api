@@ -30,3 +30,4 @@ oWorksheet.GetRange("A2").SetValue("This is just a sample text distributed in th
 oRange.AlignVertical = "distributed";
 builder.SaveFile("xlsx", "AlignVertical.xlsx");
 builder.CloseFile();
+```

@@ -1,6 +1,6 @@
 # SetShowPointDataLabel
 
-Spicifies the show options for the chart data labels.
+Specifies the show options for the chart data labels.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ This method doesn't return any data.
 
 ## Example
 
-This example spicifies the show options for the chart data labels.
+This example specifies the show options for the chart data labels.
 
 ```javascript
 builder.CreateFile("docx");

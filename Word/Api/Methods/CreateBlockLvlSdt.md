@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example shows how to add a block level conteiner into the document.
+This example shows how to add a block level container into the document.
 
 ```javascript
 builder.CreateFile("docx");

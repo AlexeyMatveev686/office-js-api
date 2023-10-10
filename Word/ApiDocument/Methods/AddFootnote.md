@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example adds footnote fot the document.
+This example adds footnote for the document.
 
 ```javascript
 builder.CreateFile("docx");

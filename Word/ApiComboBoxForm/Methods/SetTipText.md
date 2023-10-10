@@ -12,7 +12,7 @@ expression.SetTipText(sText);
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
-| sText | Requireds | String | Tip text. |
+| sText | Required | String | Tip text. |
 
 ## Returns
 

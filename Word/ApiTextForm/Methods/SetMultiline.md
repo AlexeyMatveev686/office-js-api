@@ -1,6 +1,6 @@
 # SetMultiline
 
-Specifies if the current text field should be miltiline.
+Specifies if the current text field should be multiline.
 
 ## Syntax
 
@@ -20,7 +20,7 @@ Boolean (returns false, if the text field is not fixed size)
 
 ## Example
 
-This example specifies if the text field should be miltiline.
+This example specifies if the text field should be multiline.
 
 ```javascript
 builder.CreateFile("docx");

@@ -10,7 +10,7 @@ expression.Active = true;
 
 ## Returns
 
-This propertie doesn't return any data.
+This property doesn't return any data.
 
 ## Example
 

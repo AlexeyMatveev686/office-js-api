@@ -16,7 +16,7 @@ expression.ScaleHeight(coefficient);
 
 ## Returns
 
-Boolean (return false if parametr is invalid)
+Boolean (return false if parameter is invalid)
 
 ## Example
 

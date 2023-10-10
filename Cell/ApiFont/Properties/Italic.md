@@ -32,3 +32,4 @@ var oFont = oCharacters.GetFont();
 oFont.Italic = true;
 builder.SaveFile("xlsx", "Italic.xlsx");
 builder.CloseFile();
+```

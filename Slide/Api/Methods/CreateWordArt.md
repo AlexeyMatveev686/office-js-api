@@ -19,7 +19,7 @@ expression.CreateWordArt(oTextPr?, sText?, sTransform?, oFill?, oStroke?, nRotAn
 | oStroke | Optional | [ApiStroke](../../ApiStroke/ApiStroke.md) | The stroke used to create the Text Art object shadow. Default value is "Api.CreateStroke(0, Api.CreateNoFill())". |
 | nRotAngle | Optional | Number | Rotation angle. Default value is "0". |
 | nWidth | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art width measured in English measure units. Default value is "1828800". |
-| nHeight | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art heigth measured in English measure units. Default value is "1828800". |
+| nHeight | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art height measured in English measure units. Default value is "1828800". |
 | nIndLeft | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art left side indentation value measured in English measure units. Default value is "ApiPresentation.GetWidth() / 2". |
 | nIndTop | Optional | [EMU](../../../Enumerations/Emu.md) | The Text Art top side indentation value measured in English measure units. Default value is "ApiPresentation.GetHeight() / 2". |
 

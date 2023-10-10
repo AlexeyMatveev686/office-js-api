@@ -1,6 +1,6 @@
 # GetCount
 
-Returns the cells count in the currrent range.
+Returns the cells count in the current range.
 
 ## Syntax
 

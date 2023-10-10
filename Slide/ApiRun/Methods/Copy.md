@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example reates a copy of the run.
+This example creates a copy of the run.
 
 ```javascript
 builder.CreateFile("pptx");

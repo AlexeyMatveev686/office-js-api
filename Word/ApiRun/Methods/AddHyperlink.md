@@ -17,7 +17,7 @@ expression.AddHyperlink(sLink, sScreenTipText);
 
 ## Returns
 
-[ApiHyperlink](../../ApiHyperlink/ApiHyperlink.md) &#124; null (returns false if params are invalid)
+[ApiHyperlink](../../ApiHyperlink/ApiHyperlink.md) &#124; null (returns false if parameters are invalid)
 
 ## Example
 

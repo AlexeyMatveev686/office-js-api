@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example creastes a copy of slide layout and apply it for other slide.
+This example creates a copy of slide layout and apply it for other slide.
 
 ```javascript
 builder.CreateFile("pptx");

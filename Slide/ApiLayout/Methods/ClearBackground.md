@@ -18,7 +18,7 @@ Boolean (return false if slide layout doesn't exist)
 
 ## Example
 
-This example clears backgound for a slide.
+This example clears background for a slide.
 
 ```javascript
 builder.CreateFile("pptx");

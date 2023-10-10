@@ -23,7 +23,7 @@ The pattern type used for the fill selected from one of the available pattern ty
 
 ## Example
 
-This example creates a pattern fill and applys it to the object using the selected pattern as the object background.
+This example creates a pattern fill and applies it to the object using the selected pattern as the object background.
 
 ```javascript
 builder.CreateFile("docx");

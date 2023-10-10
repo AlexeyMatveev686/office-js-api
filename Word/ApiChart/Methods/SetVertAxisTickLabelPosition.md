@@ -1,6 +1,6 @@
 # SetVertAxisTickLabelPosition
 
-Spicifies tick label position for the vertical axis.
+Specifies tick label position for the vertical axis.
 
 ## Syntax
 
@@ -20,7 +20,7 @@ This method doesn't return any data.
 
 ## Example
 
-This example spicifies tick label position for the vertical axis.
+This example specifies tick label position for the vertical axis.
 
 ```javascript
 builder.CreateFile("docx");

@@ -27,7 +27,7 @@ String
 
 ## Example
 
-This example creates placholder "picture".
+This example creates placeholder "picture".
 
 ```javascript
 var oPlaceholder = Api.CreatePlaceholder("picture");
