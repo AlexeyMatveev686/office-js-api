@@ -8,7 +8,7 @@ expression.SetType(sType);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | sType | Required | [WatermarkType](../../../Enumerations/WatermarkType.md) | The type of watermark. |

@@ -8,7 +8,7 @@ expression.SelectListValue(sValue);
 
 `expression` - A variable that represents a [ApiComboBoxForm](../ApiComboBoxForm.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

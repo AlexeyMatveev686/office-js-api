@@ -8,7 +8,7 @@ expression.Unfreeze();
 
 `expression` - A variable that represents a [ApiFreezePanes](../ApiFreezePanes.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

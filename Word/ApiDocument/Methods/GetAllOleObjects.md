@@ -8,7 +8,7 @@ expression.GetAllOleObjects();
 
 `expression` - A variable that represents a [ApiDocument](../ApiDocument.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ Array<[ApiOleObject](../../ApiOleObject/ApiOleObject.md)>
 
 ## Example
 
-This example showh how to get a collection of OLE objects from the document.
+This example shows how to get a collection of OLE objects from the document.
 
 ```javascript
 builder.CreateFile("docx");

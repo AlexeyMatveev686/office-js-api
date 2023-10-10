@@ -8,7 +8,7 @@ expression.SetChecked(isChecked);
 
 `expression` - A variable that represents a [ApiCheckBoxForm](../ApiCheckBoxForm.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

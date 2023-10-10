@@ -8,7 +8,7 @@ expression.GetActiveSheet();
 
 `expression` - A variable that represents a [Api](../Api.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

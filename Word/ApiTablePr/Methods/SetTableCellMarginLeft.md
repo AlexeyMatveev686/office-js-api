@@ -8,7 +8,7 @@ expression.SetTableCellMarginLeft(nValue);
 
 `expression` - A variable that represents a [ApiTablePr](../ApiTablePr.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

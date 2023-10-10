@@ -8,7 +8,7 @@ expression.Insert(String);
 
 `expression` - A variable that represents a [ApiCharacters](../ApiCharacters.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

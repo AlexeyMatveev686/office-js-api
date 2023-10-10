@@ -8,7 +8,7 @@ expression.SetText(text);
 
 `expression` - A variable that represents a [ApiComment](../ApiComment.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

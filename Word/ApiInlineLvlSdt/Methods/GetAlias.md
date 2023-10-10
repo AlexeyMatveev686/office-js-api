@@ -8,7 +8,7 @@ expression.GetAlias();
 
 `expression` - A variable that represents a [ApiInlineLvlSdt](../ApiInlineLvlSdt.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ String
 
 ## Example
 
-This example showh how to get the alias attribute for the container.
+This example shows how to get the alias attribute for the container.
 
 ```javascript
 builder.CreateFile("docx");

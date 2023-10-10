@@ -8,7 +8,7 @@ expression.IsRequired();
 
 `expression` - A variable that represents a [ApiPictureForm](../ApiPictureForm.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

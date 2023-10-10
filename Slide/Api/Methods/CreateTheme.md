@@ -8,7 +8,7 @@ expression.CreateTheme(sName, oMaster, oClrScheme, oFormatScheme, oFontScheme);
 
 `expression` - A variable that represents a [Api](../Api.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

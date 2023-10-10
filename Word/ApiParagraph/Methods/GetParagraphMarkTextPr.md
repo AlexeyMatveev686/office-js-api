@@ -8,7 +8,7 @@ expression.GetParagraphMarkTextPr();
 
 `expression` - A variable that represents a [ApiParagraph](../ApiParagraph.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

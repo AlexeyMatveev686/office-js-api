@@ -8,7 +8,7 @@ expression.SetImageURL(sURL);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | sURL | Required | String | The image URL of the watermark. |

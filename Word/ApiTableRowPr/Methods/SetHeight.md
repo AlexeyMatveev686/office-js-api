@@ -8,7 +8,7 @@ expression.SetHeight(sHRule, nValue?);
 
 `expression` - A variable that represents a [ApiTableRowPr](../ApiTableRowPr.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.SetLink(sLink);
 
 `expression` - A variable that represents a [ApiHyperlink](../ApiHyperlink.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

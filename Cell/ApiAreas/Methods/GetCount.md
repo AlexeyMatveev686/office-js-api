@@ -8,7 +8,7 @@ expression.GetCount();
 
 `expression` - A variable that represents a [ApiAreas](../ApiAreas.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

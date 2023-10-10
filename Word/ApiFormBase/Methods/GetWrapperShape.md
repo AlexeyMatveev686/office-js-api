@@ -8,7 +8,7 @@ expression.GetWrapperShape();
 
 `expression` - A variable that represents a [ApiFormBase](../ApiFormBase.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

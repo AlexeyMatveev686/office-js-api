@@ -8,7 +8,7 @@ expression.GetBookmarkRange(sName);
 
 `expression` - A variable that represents a [ApiDocument](../ApiDocument.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
@@ -20,7 +20,7 @@ expression.GetBookmarkRange(sName);
 
 ## Example
 
-This example showh how to get a bookmark range.
+This example shows how to get a bookmark range.
 
 ```javascript
 builder.CreateFile("docx"); 

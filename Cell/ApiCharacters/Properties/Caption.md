@@ -8,7 +8,7 @@ expression.Caption; &#124; expression.Caption = Caption;
 
 `expression` - A variable that represents a [ApiCharacters](../ApiCharacters.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

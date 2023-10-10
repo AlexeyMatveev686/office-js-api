@@ -8,7 +8,7 @@ expression.SetFormatScheme(oApiFormatScheme);
 
 `expression` - A variable that represents a [ApiTheme](../ApiTheme.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.SetOpacity(nOpacity);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | nOpacity | Required | Number | The value of opacity of the watermark. Value must be from 0 to 255. |

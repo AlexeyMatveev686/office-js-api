@@ -8,7 +8,7 @@ expression.ClearBackground();
 
 `expression` - A variable that represents a [ApiSlide](../ApiSlide.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

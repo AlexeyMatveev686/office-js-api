@@ -8,7 +8,7 @@ expression.SetSort(key1, sSortOrder1, key2, sSortOrder2, key3, sSortOrder3, sHea
 
 `expression` - A variable that represents a [ApiRange](../ApiRange.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

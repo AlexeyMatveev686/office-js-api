@@ -9,7 +9,7 @@ expression.AddChart(sDataRange, bInRows, sType, nStyleIndex, nExtX, nExtY, nFrom
 
 `expression` - A variable that represents a [ApiWorksheet](../ApiWorksheet.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

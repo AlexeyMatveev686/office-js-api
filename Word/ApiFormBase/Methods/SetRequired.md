@@ -8,7 +8,7 @@ expression.SetRequired(bRequired);
 
 `expression` - A variable that represents a [ApiFormBase](../ApiFormBase.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

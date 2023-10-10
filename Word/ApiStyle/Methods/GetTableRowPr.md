@@ -8,7 +8,7 @@ expression.GetTableRowPr();
 
 `expression` - A variable that represents a [ApiStyle](../ApiStyle.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

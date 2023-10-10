@@ -7,7 +7,7 @@ Adds a caption paragraph after (or before) the current content control.
 expression.AddCaption(sAdditional, sLabel?, bExludeLabel?, sNumberingFormat?, bBefore?, nHeadingLvl?, sCaptionSep?);
 
 `expression` - A variable that represents a [ApiBlockLvlSdt](../ApiBlockLvlSdt.md) class.
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

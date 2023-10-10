@@ -8,7 +8,7 @@ expression.Strikethrough; &#124; expression.Strikethrough = isStrikethrough;
 
 `expression` - A variable that represents a [ApiFont](../ApiFont.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

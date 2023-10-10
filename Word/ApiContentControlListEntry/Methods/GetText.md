@@ -8,7 +8,7 @@ expression.GetText();
 
 `expression` - A variable that represents a [ApiContentControlListEntry](../ApiContentControlListEntry.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

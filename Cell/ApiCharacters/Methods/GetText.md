@@ -8,7 +8,7 @@ expression.GetText();
 
 `expression` - A variable that represents a [ApiCharacters](../ApiCharacters.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

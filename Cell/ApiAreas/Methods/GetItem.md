@@ -8,7 +8,7 @@ expression.GetItem(ind);
 
 `expression` - A variable that represents a [ApiAreas](../ApiAreas.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
@@ -16,7 +16,7 @@ expression.GetItem(ind);
 
 ## Returns
 
-[ApiRange](../../ApiRange/ApiRange.md) &#124; null (returs null if index isn't correct)
+[ApiRange](../../ApiRange/ApiRange.md) &#124; null (returns null if ind isn't correct)
 
 ## Example
 

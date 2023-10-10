@@ -9,7 +9,7 @@ expression.AddCaption(sAdditional, sLabel?, ?bExludeLabel?, sNumberingFormat?, b
 
 `expression` - A variable that represents a [ApiTable](../ApiTable.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

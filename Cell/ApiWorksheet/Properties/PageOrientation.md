@@ -8,7 +8,7 @@ expression.PageOrientation; &#124; expression.PageOrientation = sPageOrientation
 
 `expression` - A variable that represents a [ApiWorksheet](../ApiWorksheet.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.GetRadioGroup();
 
 `expression` - A variable that represents a [ApiCheckBoxForm](../ApiCheckBoxForm.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

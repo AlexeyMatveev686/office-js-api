@@ -8,7 +8,7 @@ expression.UnMerge();
 
 `expression` - A variable that represents a [ApiRange](../ApiRange.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

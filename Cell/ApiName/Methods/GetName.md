@@ -8,7 +8,7 @@ expression.GetName();
 
 `expression` - A variable that represents a [ApiName](../ApiName.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

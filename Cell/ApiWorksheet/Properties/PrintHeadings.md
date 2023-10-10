@@ -8,7 +8,7 @@ expression.PrintHeadings; &#124; expression.PrintHeadings = bPrint;
 
 `expression` - A variable that represents a [ApiWorksheet](../ApiWorksheet.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.FreezeAt(frozenRange);
 
 `expression` - A variable that represents a [ApiFreezePanes](../ApiFreezePanes.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

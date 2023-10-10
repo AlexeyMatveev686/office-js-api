@@ -8,7 +8,7 @@ expression.SetTextPr(oTextPr);
 
 `expression` - A variable that represents a [ApiTextForm](../ApiTextForm.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

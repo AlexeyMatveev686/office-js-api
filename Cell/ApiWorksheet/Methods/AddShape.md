@@ -9,7 +9,7 @@ expression.AddShape(sType?, nWidth, nHeight, oFill, oStroke, nFromCol, nColOffse
 
 `expression` - A variable that represents a [ApiWorksheet](../ApiWorksheet.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.GetAllTables();
 
 `expression` - A variable that represents a [ApiDocument](../ApiDocument.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ Array<[ApiTable](../../ApiTable/ApiTable.md)>
 
 ## Example
 
-This example showh how to get an array of all tables from the document.
+This example shows how to get an array of all tables from the document.
 
 ```javascript
 builder.CreateFile("docx");

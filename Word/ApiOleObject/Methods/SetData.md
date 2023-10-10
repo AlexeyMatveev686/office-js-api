@@ -8,7 +8,7 @@ expression.SetData(sData);
 
 `expression` - A variable that represents a [ApiOleObject](../ApiOleObject.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

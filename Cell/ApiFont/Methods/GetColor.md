@@ -8,7 +8,7 @@ expression.GetColor();
 
 `expression` - A variable that represents a [ApiFont](../ApiFont.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

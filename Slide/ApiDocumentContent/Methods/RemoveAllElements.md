@@ -9,7 +9,7 @@ expression.RemoveAllElements();
 
 `expression` - A variable that represents a [ApiDocumentContent](../ApiDocumentContent.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

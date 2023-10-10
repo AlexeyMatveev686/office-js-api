@@ -8,7 +8,7 @@ expression.GetParentTableCell();
 
 `expression` - A variable that represents a [ApiDrawing](../ApiDrawing.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example showh how to get a parent table cell that contains the graphic object.
+This example shows how to get a parent table cell that contains the graphic object.
 
 ```javascript
 builder.CreateFile("docx");

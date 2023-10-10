@@ -8,7 +8,7 @@ expression.GetLayoutsCount()
 
 `expression` - A variable that represents a [ApiMaster](../ApiMaster.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ Number
 
 ## Example
 
-This example gets a number of layout objects and insert it itno the presentation.
+This example gets a number of layout objects and insert it into the presentation.
 
 ```javascript
 builder.CreateFile("pptx");

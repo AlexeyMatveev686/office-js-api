@@ -8,7 +8,7 @@ expression.SetName(sName);
 
 `expression` - A variable that represents a [ApiName](../ApiName.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

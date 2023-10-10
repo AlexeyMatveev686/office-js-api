@@ -8,7 +8,7 @@ expression.SetBold(isBold);
 
 `expression` - A variable that represents a [ApiFont](../ApiFont.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

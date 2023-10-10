@@ -8,7 +8,7 @@ expression.SetTextPr(oTextPr);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | oTextPr | Required | ApiTextPr | The text properties of watermark. |

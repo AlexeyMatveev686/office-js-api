@@ -8,7 +8,7 @@ expressionSetImageSize(nWidth, nHeight);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | nWidth | Required | [EMU](../../../Enumerations/Emu.md) | The width of the image. |

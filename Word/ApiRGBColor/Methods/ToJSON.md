@@ -8,7 +8,7 @@ expression.ToJSON();
 
 `expression` - A variable that represents a [ApiRGBColor](../ApiRGBColor.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

@@ -8,7 +8,7 @@ expression.SetTableLook(isFirstColumn, isFirstRow, isLastColumn, isLastRow, isHo
 
 `expression` - A variable that represents a [ApiTable](../ApiTable.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

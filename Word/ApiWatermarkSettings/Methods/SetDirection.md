@@ -8,7 +8,7 @@ expression.SetDirection(sDirection);
 
 `expression` - A variable that represents a [ApiWatermarkSettings](../ApiWatermarkSettings.md) class.
 
-## Parametrs
+## Parameters
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
 | sDirection | Required | [WatermarkDirection](../../../Enumerations/WatermarkDirection.md) | The direction of the watermark. |

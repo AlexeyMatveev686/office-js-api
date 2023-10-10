@@ -8,7 +8,7 @@ expression.GetParentTableCell();
 
 `expression` - A variable that represents a [ApiBlockLvlSdt](../ApiBlockLvlSdt.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ This method doesn't have any parameters.
 
 ## Example
 
-This example showh how to get a table cell that contains the current content control.
+This example shows how to get a table cell that contains the current content control.
 
 ```javascript
 builder.CreateFile("docx");

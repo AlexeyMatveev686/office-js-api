@@ -8,7 +8,7 @@ expression.SetPaddings(nLeft, nTop, nRight, nBottom);
 
 `expression` - A variable that represents a [ApiShape](../ApiShape.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

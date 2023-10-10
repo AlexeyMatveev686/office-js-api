@@ -8,7 +8,7 @@ expression.ScaleHeight(coefficient);
 
 `expression` - A variable that represents a [ApiDrawing](../ApiDrawing.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
@@ -16,7 +16,7 @@ expression.ScaleHeight(coefficient);
 
 ## Returns
 
-Boolean (return false if param is invalid)
+Boolean (return false if parametr is invalid)
 
 ## Example
 

@@ -8,7 +8,7 @@ expression.GetAllItems();
 
 `expression` - A variable that represents a [ApiContentControlList](../ApiContentControlList.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

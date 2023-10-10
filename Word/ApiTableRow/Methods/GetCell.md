@@ -8,7 +8,7 @@ expression.GetCell(nPos);
 
 `expression` - A variable that represents a [ApiTableRow](../ApiTableRow.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.GetFootnotesFirstParagraphs();
 
 `expression` - A variable that represents a [ApiDocument](../ApiDocument.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
@@ -18,7 +18,7 @@ Array<[ApiParagraph](../../ApiParagraph/ApiParagraph.md)>
 
 ## Example
 
-This example showh how to get the first paragraphs from all footnotes in the document.
+This example shows how to get the first paragraphs from all footnotes in the document.
 
 ```javascript
 builder.CreateFile("docx");

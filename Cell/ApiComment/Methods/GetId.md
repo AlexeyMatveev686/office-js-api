@@ -8,7 +8,7 @@ expression.GetId();
 
 `expression` - A variable that represents a [ApiComment](../ApiComment.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

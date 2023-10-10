@@ -9,7 +9,7 @@ expression.SetStyle(oStyle);
 
 `expression` - A variable that represents a [ApiTextPr](../ApiTextPr.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

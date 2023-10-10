@@ -8,7 +8,7 @@ expression.GetClassType();
 
 `expression` - A variable that represents a [ApiPlaceholder](../ApiPlaceholder.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

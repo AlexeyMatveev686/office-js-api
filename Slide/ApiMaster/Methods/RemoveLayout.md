@@ -8,7 +8,7 @@ expression.RemoveLayout(nPos, nCount?);
 
 `expression` - A variable that represents a [ApiMaster](../ApiMaster.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

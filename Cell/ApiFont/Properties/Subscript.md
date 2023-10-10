@@ -8,7 +8,7 @@ expression.Subscript; &#124; expression.Subscript = isSubscript;
 
 `expression` - A variable that represents a [ApiFont](../ApiFont.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

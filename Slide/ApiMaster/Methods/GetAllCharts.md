@@ -8,7 +8,7 @@ expression.GetAllCharts();
 
 `expression` - A variable that represents a [ApiMaster](../ApiMaster.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

@@ -8,7 +8,7 @@ expression.ToMarkdown(bHtmlHeadings?, bBase64img?, bDemoteHeadings?, bRenderHTML
 
 `expression` - A variable that represents a [ApiDocument](../ApiDocument.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

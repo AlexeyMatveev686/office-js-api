@@ -8,7 +8,7 @@ expression.GetLevel(nLevel);
 
 `expression` - A variable that represents a [ApiNumbering](../ApiNumbering.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -271,3 +271,5 @@ ApiWorksheet
 SetRowHeight
 ApiAreas
 GetItem
+isAuto
+nPosition

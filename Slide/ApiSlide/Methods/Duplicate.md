@@ -8,11 +8,11 @@ expression.Duplicate(nPos?);
 
 `expression` - A variable that represents a [ApiSlide](../ApiSlide.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
-| nPos | Optional | Number | Position where the new slide will be added. Defalult value is "ApiPresentation.GetSlidesCount()". |
+| nPos | Optional | Number | Position where the new slide will be added. Default value is "ApiPresentation.GetSlidesCount()". |
 
 ## Returns
 

@@ -9,7 +9,7 @@ expression.GetTextPr();
 
 `expression` - A variable that represents a [ApiNumberingLevel](../ApiNumberingLevel.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

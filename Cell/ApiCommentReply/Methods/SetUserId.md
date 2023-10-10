@@ -8,7 +8,7 @@ expression.SetUserId(sUserId);
 
 `expression` - A variable that represents a [ApiCommentReply](../ApiCommentReply.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.SetBackground(oApiFill);
 
 `expression` - A variable that represents a [ApiSlide](../ApiSlide.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

@@ -8,7 +8,7 @@ expression.GetNextImage();
 
 `expression` - A variable that represents a [ApiImage](../ApiImage.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 

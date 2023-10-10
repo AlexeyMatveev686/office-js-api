@@ -8,7 +8,7 @@ expression.SetHighlight(sColor);
 
 `expression` - A variable that represents a [ApiParagraph](../ApiParagraph.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |
@@ -20,7 +20,7 @@ expression.SetHighlight(sColor);
 
 ## Example
 
-This example sets hiighlight color "lightGray" for the paragraph.
+This example sets highlight color "lightGray" for the paragraph.
 
 ```javascript
 builder.CreateFile("pptx");

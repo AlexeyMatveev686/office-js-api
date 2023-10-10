@@ -8,7 +8,7 @@ expression.SetTableHeader(isHeader);
 
 `expression` - A variable that represents a [ApiTableRow](../ApiTableRow.md) class.
 
-## Parametrs
+## Parameters
 
 | **Name** | **Required/Optional** | **Data type** | **Description** |
 | ------------- | ------------- | ------------- | ------------- |

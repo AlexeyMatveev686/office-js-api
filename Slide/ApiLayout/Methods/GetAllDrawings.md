@@ -8,7 +8,7 @@ expression.GetAllDrawings();
 
 `expression` - A variable that represents a [ApiLayout](../ApiLayout.md) class.
 
-## Parametrs
+## Parameters
 
 This method doesn't have any parameters.
 
