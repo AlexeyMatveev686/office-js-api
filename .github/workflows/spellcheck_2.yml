@@ -10,5 +10,5 @@ jobs:
         with:
           files: '**/**/*.md'
           quiet: true
-          dictionaries: spellcheck/wordlist.txt
+          dictionaries: spellcheck/wordlist2.txt
           noSuggestions: true

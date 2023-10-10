@@ -1770,4 +1770,12 @@ nCellWidth
 bComb
 bAutoFit
 bMultiline
+Value2
+GetValue2
+LeftMargin
+RightMargin
+TopMargin
+BottomMargin
+todo_examples
+ContentControlList
 todo
