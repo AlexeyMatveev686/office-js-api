@@ -1,6 +1,6 @@
 # mm
 
-1 millimetre equals 1/10th of a centimetre.
+1 millimeter equals 1/10th of a centimeter.
 
 ## Type
 
