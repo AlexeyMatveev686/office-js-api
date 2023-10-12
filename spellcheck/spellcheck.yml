@@ -3,7 +3,8 @@ matrix:
   sources:
   - '**/**/*.md'
   default_encoding: utf-8
-  hunspell:
+  aspell:
+    lang: en
     d: en_US
   dictionary:
     wordlists:
