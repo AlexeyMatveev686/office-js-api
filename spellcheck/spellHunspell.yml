@@ -5,7 +5,7 @@ matrix:
     ignore-case: true
   dictionary:
     wordlists:
-    - wordlistHunspell.txt
+    - spellcheck/wordlistHunspell.txt
     encoding: utf-8
     mode: markdown
   pipeline:

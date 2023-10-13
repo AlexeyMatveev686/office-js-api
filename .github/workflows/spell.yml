@@ -1,4 +1,4 @@
-name: spellcheck
+name: spellcheck hunspell
 on: push
 
 jobs:
@@ -22,4 +22,4 @@ jobs:
         # Perform any documentation building that might be required
     - name: Spell check hunspell
       run: |
-        python -m pyspelling -s hunspell -c ./spellHunspell.yml
+        python -m pyspelling -s hunspell -c spellcheck/spellHunspell.yml
