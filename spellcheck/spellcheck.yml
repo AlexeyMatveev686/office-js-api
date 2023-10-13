@@ -14,7 +14,6 @@ matrix:
   - pyspelling.filters.markdown:
       markdown_extensions:
       - pymdownx.superfences
-      - pymdownx.B64
   - pyspelling.filters.html:
       comments: false
       ignores:
