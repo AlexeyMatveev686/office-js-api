@@ -3,11 +3,11 @@ matrix:
   hunspell:
     d: en_US
     ignore-case: true
+    mode: markdown
   dictionary:
     wordlists:
     - spellcheck/wordlistHunspell.txt
     encoding: utf-8
-    mode: markdown
   pipeline:
   - pyspelling.filters.markdown:
       markdown_extensions:
