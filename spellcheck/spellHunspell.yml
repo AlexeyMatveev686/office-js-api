@@ -1,22 +1,22 @@
 matrix:
 - name: Markdown
-  sources:
-  - '**/**/*.md'
-  default_encoding: utf-8
-  aspell:
-    lang: en
+  hunspell:
     d: en_US
+    ignore-case: true
   dictionary:
     wordlists:
-    - spellcheck/wordlist.txt # <-- put path to custom dictionary file here
+    - wordlistHunspell.txt
     encoding: utf-8
+    mode: markdown
   pipeline:
   - pyspelling.filters.markdown:
       markdown_extensions:
       - pymdownx.superfences
-      - pymdownx.B64
   - pyspelling.filters.html:
       comments: false
       ignores:
       - code
       - pre
+  sources:
+  - '**/**/*.md'
+  default_encoding: utf-8
