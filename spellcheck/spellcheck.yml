@@ -7,7 +7,7 @@ matrix:
     ignore-case: true
   dictionary:
     wordlists:
-    - spellcheck/wordlistHunspell.txt
+    - spellcheck/wordlist.txt
     encoding: utf-8
   pipeline:
   - pyspelling.filters.markdown:
