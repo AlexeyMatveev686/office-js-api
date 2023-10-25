@@ -1788,3 +1788,15 @@ oTextPr2
 oTextPr3
 sClassType
 Calibri
+noncommercially
+fullname
+6d
+6b
+oTableStyle
+sTableStyleName
+CustomTableStyle
+oTableStyleType
+oTable
+oStyleFromJSON
+oParaPr
+oCellContent
