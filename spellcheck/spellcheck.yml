@@ -3,7 +3,6 @@ matrix:
   hunspell:
     d: en_US
     ignore-case: true
-    mode: markdown
   dictionary:
     wordlists:
     - spellcheck/wordlist.txt
