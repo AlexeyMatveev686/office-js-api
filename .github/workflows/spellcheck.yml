@@ -18,6 +18,7 @@ jobs:
       run: |
         sudo apt-get install aspell aspell-en
         sudo apt-get upgrade
+        aspell -v
     - name: Build documents
       run: |
         # Perform any documentation building that might be required

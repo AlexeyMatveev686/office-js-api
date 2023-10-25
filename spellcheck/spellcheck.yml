@@ -2,7 +2,7 @@ matrix:
 - name: Markdown
   aspell:
     lang: en
-    d: en_US-large
+    d: en_US
     mode: markdown
     ignore-case: true
   dictionary:
