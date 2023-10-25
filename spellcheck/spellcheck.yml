@@ -13,7 +13,6 @@ matrix:
       ignores:
       - code
       - pre
-      - javascript
   sources:
   - '**/**/*.md'
   default_encoding: utf-8

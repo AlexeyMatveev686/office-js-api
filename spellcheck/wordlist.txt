@@ -94,6 +94,7 @@ ApiDrawing
 oApiTheme
 ApiTheme
 JSON
+json
 bWriteAllMasLayouts
 bWriteLayout
 bWriteMaster
@@ -1771,3 +1772,19 @@ bAutoFit
 bMultiline
 UniColor
 todo
+javascript
+oTextForm
+oCopyForm
+bFixedCopy
+bFixed
+oCopyTextForm
+sFormType
+oMyNewRunStyle
+oMyNewRunStyle1
+oMyNewRunStyle2
+oMyNewRunStyle3
+oTextPr1
+oTextPr2
+oTextPr3
+sClassType
+Calibri
